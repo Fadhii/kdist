@@ -1,0 +1,10 @@
+.card-img-top{
+    height: 16rem;
+}
+.card{
+    margin-top: 4rem;
+}
+.body {
+    background-image: url("https://pbs.twimg.com/media/EkIMAVRU0AMHbWY?format=jpg&name=4096x4096");
+    background-color: #cccccc;
+   }
